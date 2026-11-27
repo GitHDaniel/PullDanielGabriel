@@ -1,0 +1,101 @@
+Afrikáans: Hallo
+Albanés: Përshëndetje
+Alemán: Hallo
+Amhárico: Selam (ሰላም)
+Árabe: Marhaba (مرحبا)
+Aragonés: Ola
+Armenio: Barev (Բարև)
+Asturiano: Hola
+Azerí: Salam
+Bambara: I ni ce
+Bengalí: Hyālō (হ্যালো) / Namaskar
+Bielorruso: Pryvitannie (Прывітанне)
+Birmano: Mingalaba (မင်္ဂလာပါ)
+Bosnio: Zdravo
+Bretón: Demat
+Búlgaro: Zdraveyte (Здравейте)
+Cantonés: Néih hóu (你好)
+Catalán: Hola
+Cebuano: Kumusta
+Checo: Ahoj
+Chichewa: Moni
+Chino mandarín: Nǐ hǎo (你好)
+Cingalés: Ayubowan (ආයුබෝවන්)
+Coreano: Annyeonghaseyo (안녕하세요)
+Corso: Bonghjornu
+Criollo haitiano: Bonjou
+Croata: Bok / Zdravo
+Danés: Hej
+Eslovaco: Ahoj
+Esloveno: Živjo
+Español: Hola
+Esperanto: Saluton
+Estonio: Tere
+Euskera (Vasco): Kaixo
+Feroés: Halló
+Finés: Hei / Moi
+Fiyiano: Bula
+Francés: Bonjour / Salut
+Frisio: Hallo
+Gaélico escocés: Halò
+Galés: Helo / Shwmae
+Gallego: Ola
+Georgiano: Gamarjoba (გამარჯობა)
+Griego: Geia sou (Γεια σου)
+Guaraní: Mba'éichapa
+Guyaratí: Namaste (નમસ્તે)
+Hausa: Sannu
+Hawaiano: Aloha
+Hebreo: Shalom (שלום)
+Hindi: Namaste (नमस्ते)
+Hmong: Nyob zoo
+Húngaro: Szia
+Igbo: Ndewo
+Indonesio: Halo
+Inglés: Hello
+Irlandés: Dia duit
+Islandés: Halló
+Italiano: Ciao / Salve
+Japonés: Konnichiwa (こんにちは)
+Javanés: Halo
+Jemer (Camboyano): Choum reap suor (ជំរាបសួរ)
+Kannada: Namaskara (ನಮಸ್ಕಾರ)
+Kazajo: Sälem (Сәлем)
+Kirguís: Salam (Салам)
+Kurdo: Silav
+Lao: Sabaidee (ສະບາຍດີ)
+Latín: Salve
+Letón: Sveiki
+Lituano: Labas
+Luxemburgués: Moien
+Macedonio: Zdravo (Здраво)
+Malayalam: Namaskaram (നമസ്കാരം)
+Malayo: Hai / Apa khabar
+Malgache: Salama
+Maltés: Bongu
+Maorí: Kia ora
+Maratí: Namaskar (नमस्कार)
+Mongol: Sain baina uu (Сайн байна уу)
+Náhuatl: Niltze
+Navajo: Yá'át'ééh
+Neerlandés (Holandés): Hallo
+Nepalí: Namaste (नमस्ते)
+Noruego: Hei
+Panyabí: Sat Sri Akal (ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ)
+Pastún: Salam (سلام)
+Persa (Farsi): Salām (سلام)
+Polaco: Cześć
+Portugués: Olá
+Quechua: Allillanchu
+Rumano: Bună / Salut
+Ruso: Privet (Привет) / Zdravstvuyte (Здравствуйте)
+Samoano: Talofa
+Serbio: Zdravo (Здраво)
+Sesotho: Dumela
+Shona: Mhoro
+Somalí: Salaam alaykum
+Suajili: Jambo / Habari
+Sueco: Hej
+Tagalo (Filipino): Kumusta
+Tailandés: Sawatdee (สวัสดี)
+Dime qué te gustaría explorar.
